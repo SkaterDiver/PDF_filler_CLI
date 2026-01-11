@@ -3,11 +3,11 @@ Made a python CLI that takes inputted .docx files, parses them to look for words
 
 How to use:
 
-1) install LibreOffice
+1) Install LibreOffice
 
 2) Install dependency
 `pip install -r requirements.txt`
 
 3) Run the CLI
-`python cover_letter_cli.py`
+`python cv-filler.py`
 
